@@ -1,0 +1,4 @@
+Complexity,Loss,Equation
+1,2.5,"0.49999982"
+5,1.6666665,"lor(land(x1, x0), 0.33333373)"
+8,0.0,"lor(land(x1, x0), not(lor(x1, x0)))"
